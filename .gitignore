@@ -1,0 +1,21 @@
+# Ignorar el entorno virtual de Python
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros archivos que no quieras subir
+*.log
+*.bak
+
+__pycache__/
+
